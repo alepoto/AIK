@@ -1,0 +1,68 @@
+
+nav > a{
+	
+	font-size: 15px;
+	color: white;
+	text-decoration: none;
+}
+
+nav {
+	background-color: #0071BD;
+
+}
+
+h1 {
+	font-size: 40px;
+	font-family: "Comic Sans MS";
+	color:#8cc500;
+}
+
+body{
+	padding: 10px;
+	background: #FFFFFF;
+	font-family: "Comic Sans MS"
+	
+}
+
+section > h2{
+	color: #0071BD;
+}
+
+article > h3{
+	color: #8cc500;
+
+}
+
+article {
+	float: left;
+	width: 80%;
+}
+
+aside{
+	float: right;
+	width: 20%;
+}
+
+body > footer{
+	background: #0071bd;
+	color: white;	
+	text-align: center;
+	text-decoration: none;
+	clear: both;
+}
+
+aside > figure{
+	border: 2px solid grey;
+}
+
+header > h1 {
+	float: left;
+}
+
+#sesion {
+	float: right;
+}
+
+#menu {
+	clear: both;
+}
